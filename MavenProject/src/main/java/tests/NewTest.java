@@ -16,11 +16,11 @@ public class NewTest {
 	  }
 	  
 	  @BeforeClass
-	  public void beforeClass() {
+	  public void beforeClass() throws InterruptedException {
 		  
 		  System.setProperty("webdriver.gecko.driver", "E:\\Selenium Jars\\geckodriver.exe");
 		  driver = new FirefoxDriver();
-		  
+		  Thread.sleep(5000);
 	  }
 	 
 	  @AfterClass

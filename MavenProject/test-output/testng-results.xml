@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-12T14:30:32 IST" name="Default suite" finished-at="2021-05-12T14:30:57 IST" duration-ms="25222">
+  <suite started-at="2021-05-14T13:44:18 IST" name="Suite" finished-at="2021-05-14T13:44:44 IST" duration-ms="25430">
     <groups>
     </groups>
-    <test started-at="2021-05-12T14:30:32 IST" name="Default test" finished-at="2021-05-12T14:30:57 IST" duration-ms="25222">
+    <test started-at="2021-05-14T13:44:18 IST" name="Test" finished-at="2021-05-14T13:44:44 IST" duration-ms="25430">
       <class name="tests.NewTest">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.NewTest@2ed2d9cb]" started-at="2021-05-12T14:30:32 IST" name="beforeClass" finished-at="2021-05-12T14:30:42 IST" duration-ms="10556" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.NewTest@63a12c68]" started-at="2021-05-14T13:44:19 IST" name="beforeClass" finished-at="2021-05-14T13:44:33 IST" duration-ms="14600" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="openMyBlog()[pri:0, instance:tests.NewTest@2ed2d9cb]" started-at="2021-05-12T14:30:42 IST" name="openMyBlog" finished-at="2021-05-12T14:30:53 IST" duration-ms="11092" status="PASS">
+        <test-method signature="openMyBlog()[pri:0, instance:tests.NewTest@63a12c68]" started-at="2021-05-14T13:44:33 IST" name="openMyBlog" finished-at="2021-05-14T13:44:40 IST" duration-ms="7057" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openMyBlog -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.NewTest@2ed2d9cb]" started-at="2021-05-12T14:30:53 IST" name="afterClass" finished-at="2021-05-12T14:30:57 IST" duration-ms="3439" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.NewTest@63a12c68]" started-at="2021-05-14T13:44:40 IST" name="afterClass" finished-at="2021-05-14T13:44:44 IST" duration-ms="3697" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- tests.NewTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
