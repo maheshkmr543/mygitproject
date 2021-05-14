@@ -36,7 +36,7 @@
            	<configuration>
            	 	<suiteXmlFiles>
            			<suiteXmlFile>Testng.xml</suiteXmlFile>
-           			<!-- <suiteXmlFile>src/main/resources/testng.xml</suiteXmlFile> -->
+           			<!-- <suiteXmlFile>src/main/resources/Testng.xml</suiteXmlFile> -->
            		</suiteXmlFiles>
            	</configuration>
   		</plugin>
